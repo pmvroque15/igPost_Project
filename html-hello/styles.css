@@ -1,0 +1,4 @@
+#create-post-button {
+    display: flex;
+    justify-content: end;
+}
