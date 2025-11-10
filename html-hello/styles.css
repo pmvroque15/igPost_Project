@@ -35,3 +35,9 @@
    text-decoration: none; 
    background-color: none;
 }
+
+#card-header {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
